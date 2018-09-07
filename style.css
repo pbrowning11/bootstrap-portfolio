@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box
+}
+
+body {
+    background-image: url(../Basic_Portfolio/assets/images/leaves-pattern/leaves-pattern.png);
+    background-repeat: repeat;
+    padding: 0px;
+    margin: 0px;
+}
